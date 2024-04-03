@@ -1,6 +1,6 @@
 # playO Assignment
 
-hosted Link:
+hosted Link: https://play-o-psi.vercel.app/
 
 backend (github link):
 
