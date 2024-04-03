@@ -2,7 +2,7 @@
 
 hosted Link: https://play-o-psi.vercel.app/
 
-backend (github link):
+backend (github link):https://github.com/ThakareSakshi/play0_backend
 
 ## tech Stack:
 
