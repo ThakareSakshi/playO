@@ -1,8 +1,29 @@
-# React + Vite
+# playO Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+hosted Link:
 
-Currently, two official plugins are available:
+backend (github link):
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## tech Stack:
+
+### frontend :
+
+- React
+- tailwind CSS
+- material UI Icons
+
+### backend:
+
+ - NodeJs
+ - ExpressJs
+ - MongoDB
+
+## Features
+
+ - Can Add Ne Customer
+ - Can Update Details of Customer
+ - Can delete Customer
+ - Sort data on the basis of product name, customer name, Date ,price and status
+ - pagination
+
+
