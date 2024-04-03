@@ -20,10 +20,10 @@ backend (github link):
 
 ## Features
 
- - Can Add Ne Customer
+ - Can Add New Customer
  - Can Update Details of Customer
  - Can delete Customer
- - Sort data on the basis of product name, customer name, Date ,price and status
+ - Sort data on the basis of Product name, Customer name, Date ,price and Status.
  - pagination
 
 
