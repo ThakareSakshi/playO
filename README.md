@@ -1,18 +1,18 @@
 # playO Assignment
 
-hosted Link: https://play-o-psi.vercel.app/
+Hosted Link: https://play-o-psi.vercel.app/
 
-backend (github link):https://github.com/ThakareSakshi/play0_backend
+Backend (github link):https://github.com/ThakareSakshi/play0_backend
 
-## tech Stack:
+## Technologies Used:
 
-### frontend :
+### Frontend :
 
 - React
 - tailwind CSS
 - material UI Icons
 
-### backend:
+### Backend:
 
  - NodeJs
  - ExpressJs
